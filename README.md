@@ -1,6 +1,6 @@
 <h1 align="center" id="title">Huffman Coding</h1>
 
-<p id="description">Huffman Coding Implementation in Python</p>
+<p id="description">Huffman Coding Implementation in Python by Rahmatul Zikri</p>
 
   
   
